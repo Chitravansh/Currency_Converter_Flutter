@@ -34,8 +34,7 @@ A simple yet powerful Flutter app for converting currencies in real-time with a 
 /lib
  ├── api.dart
  ├── currency_converter_material_page.dart
- ├── main.dart
- └── tempCodeRunnerFile.dart
+ └── main.dart
 
 ```
 
