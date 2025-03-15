@@ -142,7 +142,7 @@ class _CurrencyConverterMaterialPage
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              result.toString(),
+              "$toCurrency ${result.toString()} ",
               style: const TextStyle(
                 fontSize: 50,
                 fontWeight: FontWeight.bold,
